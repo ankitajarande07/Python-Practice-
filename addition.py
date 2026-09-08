@@ -1,3 +1,5 @@
+# Function type 1: Without passing parameter without returning value
+
 def addition():
      num1 = int(input('Enter number 1:'))
      num2 = int(input('Enter number 2:'))

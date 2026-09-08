@@ -1,3 +1,5 @@
+# Function type 2: With passing parameter without returning value
+
 def addition(num1, num2):
     sum = num1 + num2
 
